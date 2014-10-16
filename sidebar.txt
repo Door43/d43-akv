@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[akv:home|Door43 (akv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-akv|d43-akv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-akv/archive/master.zip|d43-akv.zip]]
+
+**Recent Changes**
+{{changes>ns = akv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/akv|Ethnologue data]]
+
